@@ -1,4 +1,4 @@
-# Explore-PowerBI
+# Explore Power BI
 
 Welcome to the **Explore-PowerBI** repository! This collection is dedicated to showcasing Power BI projects that provide actionable insights through interactive dashboards and in-depth data analysis. Each project features unique datasets, dashboards, and visualizations to explore real-world scenarios.
 
