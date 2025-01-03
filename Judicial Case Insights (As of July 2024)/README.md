@@ -14,7 +14,7 @@ The dataset used in this project is sourced from the [National Judicial Data Gri
 - **Charts**: Interactive visualizations such as pie charts, stacked bar charts, and clustered column charts.
 
 ## Project Components
-- **Report**: Detailed presentation explaining the dashboards and insights derived from the data.
+- **[Report](https://github.com/SimranS22/Explore-PowerBI/blob/main/Judicial%20Case%20Insights%20(As%20of%20July%202024)/Judicial_Case_Insights.pdf)**: Detailed presentation explaining the dashboards and insights derived from the data.
 - **Dashboard Images**: Visual representation of the dashboard's key sections.
 - **Video Demo**: A walkthrough of the dashboard functionalities and features.
 - **PBIX File**: Power BI file containing the dashboards and visualizations.
@@ -22,7 +22,7 @@ The dataset used in this project is sourced from the [National Judicial Data Gri
 ## Installation
 1. Clone the repository to your local machine, or download the **PBIX File** and retrieve the dataset from the source provided above.
 2. Import the dataset into Power BI.
-3. Open the **Report** for a detailed overview of the dashboards.
+3. Open the **[Report](https://github.com/SimranS22/Explore-PowerBI/blob/main/Judicial%20Case%20Insights%20(As%20of%20July%202024)/Judicial_Case_Insights.pdf)** for a detailed overview of the dashboards.
 4. Review the **Dashboard Images** for visual references.
 5. Watch the **Video Demo** for an in-depth walkthrough of dashboard features and navigation.
 
