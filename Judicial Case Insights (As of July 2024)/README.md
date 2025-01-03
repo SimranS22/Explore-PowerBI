@@ -17,6 +17,8 @@ The dataset used in this project is sourced from the [National Judicial Data Gri
 - **[Report](https://github.com/SimranS22/Explore-PowerBI/blob/main/Judicial%20Case%20Insights%20(As%20of%20July%202024)/Judicial_Case_Insights.pdf)**: Detailed presentation explaining the dashboards and insights derived from the data.
 - **Dashboard Images**: Visual representation of the dashboard's key sections.
 - **Video Demo**: A walkthrough of the dashboard functionalities and features.
+    * [High Court Case Insights](https://github.com/SimranS22/Explore-PowerBI/blob/main/Judicial%20Case%20Insights%20(As%20of%20July%202024)/HighCourtCaseInsightsDemo.md)
+    * [District Court Case Insights](https://github.com/SimranS22/Explore-PowerBI/blob/main/Judicial%20Case%20Insights%20(As%20of%20July%202024)/DistrictCourtCaseInsightsDemo.md)
 - **[PBIX File](https://github.com/SimranS22/Explore-PowerBI/blob/main/Judicial%20Case%20Insights%20(As%20of%20July%202024)/NJDG.pbix)**: Power BI file containing the dashboards and visualizations.
 
 ## Installation
